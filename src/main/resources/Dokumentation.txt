@@ -1,0 +1,10 @@
+1. Schritt nach dem Mischen der Karten: Teilen des Stapels in zwei kleinere Unterstapel (ca. Hälfte/ Hälfte der Karten)
+
+2. Schritt: Sortieren der nun oben liegenden Karten bei beiden Stapeln nach Kartenwert
+
+3. Schritt: durch 2. Schritt ergeben sich weitere Unterstapel zur besseren Übersicht, vom großen isolierten Stapel zu vielen kleineren einzelnen Stapel ("Mergesort")
+
+4. Schritt: Schritt 2 wird wiederholt, gleich hohe Karten wandern auf den gleichen Unterstapel, höhere Karten, die bisher noch nicht vorkamen eröffnen einen neuen Unterstapel
+
+Die Schritte 2- 4 wiederholen sich nun so lange bis die beiden "Hauptstapel (einer rechts/ einer links)" leer sind.
+
