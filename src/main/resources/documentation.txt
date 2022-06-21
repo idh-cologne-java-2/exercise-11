@@ -1,0 +1,15 @@
+Sortieren:
+
+(Zwischenstapel?),wie viele gleichzeitig offen
+
+Vier gleichzeitige Stapel, je Farbe + unsortiert
+
+von unsortiert Farbe gucken
+auf Stapel vergleich Wert, von klein nach groß (wenn großer Wert direkt von hinten)
+
+(als Mensch kann man Stapel direkt einsehen und wissen an welche Stelle etwas kommt - ungleich Computer)
+
+Am Ende Stappel nach Farbe hintereinander
+
+
+-> linear, mit aufteilung (gleichen Farben)
