@@ -19,9 +19,11 @@ Hinweis: In der vorliegenden Datei enthalten alle Spalten Dezimalzahlen, d.h. si
 Achtung: In dieser Aufgabe müssen Sie nichts in Java programmieren. Nehmen Sie sich einen Stapel normale Spielkarten (z.B. Skatkarten). Mischen Sie sie gründlich. 
 
 Anschließend sollen sie den Kartenstapel wieder sortieren *und dabei dokumentieren wie sie vorgehen*. Die Dokumentation sollte sich (in Stichpunkten) auf die wichtigen Aspekte konzentrieren, z.B. Wann bilden Sie temporäre Zwischenstapel? Wie viele Karten haben Sie gleichzeitig offen vor sich (Hand/Tisch)? 
-Diese Dokumentation speichern Sie als Textdatei (.txt) im Verzeichnis `src/main/resources` ab und committen sie wie üblich. 
+Diese Dokumentation speichern Sie als Textdatei (.txt) im Verzeichnis `src/main/resources` ab und committen sie wie üblich. Es gibt natürlich verschiedene Möglichkeiten hier vorzugehen, und keine davon ist per se besser oder schlechter als andere.
 
 Die Sortierung sollte dabei nach Kartenwert erfolgen, also von unten nach oben: 7, 8, 9, 10, Bube, Dame, König, Ass. Bei den Farben gilt von unten nach oben: ♦️♥️♠️♣️.
+
+
 
 Hintergrund: Sortieralgorithmen sind ein Klassiker der Algorithmenkunde und es gibt mehrere Möglichkeiten wie man dabei im Computer vorgehen kann. Objekte sortieren ist Wir sprechen darüber in der nächsten Sitzung.
 
