@@ -1,0 +1,9 @@
+KartenSpiel Sotierung 
+
+Schritt 1 -> Mischen 
+
+Schritt 2 -> Sortierung nach Farben (4 Stapel +1 (Joker)) 
+
+Schritt 3 -> Jeweils die geringste zahl von geringster farbe auf neuen  Stapel legen ( 5 Stapel +1 (Joker Stapel));
+
+Fertig; 
