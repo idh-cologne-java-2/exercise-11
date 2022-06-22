@@ -1,0 +1,6 @@
+Sortierung der Karten
+
+1. alle Karten aufdecken
+2. nach Kartenwert 7,8,9,10 sortieren (1. Stapel)
+3. nach Kartenwert Bube, Dame, König, Ass sortieren (2.Stapel)
+4. beide Stapeln nach Farben sortieren (Karo, Herz, Pik, Kreuz)
