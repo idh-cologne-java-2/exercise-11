@@ -1,0 +1,4 @@
+Grundstapel mit dem Kopf nach oben hin.
+Karten nach Symbol sortieren. 
+Wenn gezogene Karte größer als die oberste Karte des zugehörigen Stapels werden alle Karten des  Stapels bis zur Stelle der Karte auf einen Hilfsstapel gelegt. Danach zurücklegen in der Reihenfolge (LIFO-Prinzip).
+Stapel insgesamt: 6 (4 für Symbole, 1 Hilfsstapel und 1 Mainstapel, von dem die Karten anfangs gezogen werden (am Ende ohne Karten))
