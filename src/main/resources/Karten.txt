@@ -1,0 +1,5 @@
+Kartenstapel sortieren:
+
+1: Die Karten nach Farbe sortiert auf 4 Stapel verteilen.
+
+2: Die Karten der einzelnen Stapel der Größe nach auf einen neuen Stapel legen
