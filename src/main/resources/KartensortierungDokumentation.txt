@@ -1,0 +1,18 @@
+Alle Karten als Handstapel in der Hand.
+
+Oberste Karte auf den Tisch gelegt und mehrere Stapel gebildet:
+7 auf 7er Stapel, 8 auf 8er Stapel usw.
+
+Solange bis alle zahlen sortiert sind. Insgesamt 8 Tischstapel.
+
+Stapel mit der niedrigsten Zahl (7) wird in die Hand genommen und nach den Farben sortiert.
+
+So lange durchrotierten bis die korrekte Farbe gefunden wurde/oben auf dem Stapel liegt.
+
+Diese Karte wird wieder auf den Tisch gelegt -> Hauptstapel.
+
+So lange bis Handstapel leer ist, dann fortfahren mit dem nächsthöhen Tischstapel (nicht Hauptstapel).
+
+8er Stapel wird in die Hand genommen & nach Farben sotiert, dann nächster Tischstapel usw.
+
+Vorgang bis alle Karten auf dem Hauptstapel sortiert sind.
