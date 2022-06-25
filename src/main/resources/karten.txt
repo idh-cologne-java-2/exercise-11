@@ -1,0 +1,8 @@
+//KartenSortieren (Doppelkopfblatt)
+
+erst Mal nach Kartenwert sortieren (9er Stapel, 10er, Bube, Dame, König, As) - es entsehen 6 Stapel
+Dann jeden Stapel einzeln nach Zeichen sortieren - dann immer 8 Karten pro Stapel in die Hand nehmen und 2 ablegen, bis es 0 sind
+die Karo karte als erstes ablegen
+dann nach Herz suchen 
+dann nach Pic und dann Kreuz
+Zeit: ca. 5 Minuten inkl. Dokumentation
