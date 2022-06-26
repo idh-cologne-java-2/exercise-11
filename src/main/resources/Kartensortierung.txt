@@ -1,0 +1,7 @@
+- Karten in vier Stapel nach Farbe aufteilen
+
+- Stapel nacheinander sortieren:
+  - niedrigste Karte im unsortierten Karostapel suchen und auf einen Zwischenstapel legen, bis der unsortierte Stapel leer ist
+  - für die restlichen drei Stapel wiederholen
+ 
+- zuletzt die nach Größe und Farbe sortierten Stapel aufeinanderlegen (Karo < Herz < Pik < Kreuz)
