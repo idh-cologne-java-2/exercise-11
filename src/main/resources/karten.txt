@@ -1,0 +1,6 @@
+1. Karten mischen
+2. Oberste Karte anschauen und auf den passenden Stapel legen (vier gedachte Ablageflächen vor mir, für die jeweiligen Farben)
+3. Wenn eine Karte einsortiert werden muss, von der bereits eine auf ihrem jeweiligen Stapel liegt vergleiche ich die in der Hand mit den liegenden.
+3.2. Ist die Karte in meiner Hand niedriger als die niedrigste der Suite auf dem Ablagestapel lege ich sie oben auf, ist sie höher als die höchste, dann unten drunter.
+4. Diesen Schritt wiederhole ich bis keine Karte mehr auf dem Originalstapel übrig ist und somit alle Karten auf ihren jeweiligen Stapeln verteilt und sortiert sind.
+5. Zum schluss lege ich die Suites in der gewünschten Reihenfolge aufeinander.
