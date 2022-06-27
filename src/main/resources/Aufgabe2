@@ -1,0 +1,7 @@
+1. Eine Karte nach der anderen wird aufgedeckt.
+2. Auf 4 Stapel werden die Karten nach Farbe aufgeteilt, bis alle Karten in einem der Stapel liegen.
+3. Die Stapel werden in ihrer Farbreihenfolge sortiert.
+4. Jeder Stapel wird erneut durchgegangen und nach Wert sortiert.
+5. Eine Karte nach der anderen wird aufgedeckt.
+6. Ist der Wert höher oder niedriger als der der vorherigen Karte?
+7. Alle Karten werden sortiert zusammengelegt.
