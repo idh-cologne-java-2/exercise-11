@@ -1,0 +1,9 @@
+-Gleich zu Beginn werden vier Zwischenstapel gebildet
+-Es ist immer höchstens eine Karte offen -> Die oberste Karte vom gemischten Stapel
+-System erkennt, welche Farbe die Karte hat und legt sie auf den entsprechenden Stapel
+-Falls der Stapel leer ist, wird die Karte direkt abgelegt
+-Falls der Stapel nicht leer ist, wird die offene Karte mit der obersten Karte des Stapels verglichen. Ist die offene Karte 
+	größer, wird sie auf die Vergleichskarte gelegt. Ist sie kleiner, wird sie, falls vorhanden, mit der nächsten Karten des
+	Stapels verglichen und entweder darauf gelegt oder, falls vorhanden, mit der nächsten Karte verglichen. Das geht 
+	immer so weiter, bis keine Karte mehr auf dem Zwischenstapel ist.
+-Gibt es keine Karten mehr im gemischten Stapel, werden ale vier Stapel der Reihe nach übereinander abgelegt
