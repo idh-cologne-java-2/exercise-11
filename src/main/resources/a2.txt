@@ -1,0 +1,9 @@
+- Immer eine Karte vom Stapel aus der Hand genommen
+
+- Für jeden Kartenwert einen eigenen Zwischenstapel auf dem Tisch gemacht
+
+- Bei gleichem Wert aber anderer Farbe die Karte einfach dazu gelegt, ohne direkt nach Farbe zu sortieren
+
+- Nachdem alle Karten offen auf dem Tisch lagen, immer einen Zwischenstapel in die Hand genommen, nach Farbe sortiert und wieder zurückgelegt
+
+- Zum Schluss alle Stapel nach Wert zusammengefügt
