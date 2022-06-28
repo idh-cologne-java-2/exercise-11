@@ -1,0 +1,9 @@
+Alle Karten werden als Handstapel in die Hand genommen.
+
+Im Anschluss werden alle Karten nach ihrem Zahlenwert sortiert (7,8,9,10, Bube, Dame, König, Ass)
+daraus ergeben sich acht Stapel.
+
+Nachdem jede Zahl richtig zugeordnet wurde, werden diese bei ihrem jeweiligen Stapel farblich sortiert.
+
+Im Anschluss werden die Karten nach ihrer Größe aufsteigend wieder zu einem Stapel zusammengefügt.
+
