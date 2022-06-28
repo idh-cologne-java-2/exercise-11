@@ -1,0 +1,7 @@
+Da ich einige Sortieralgorithmen schon etwas kenne ist das Experiment vielleicht nicht ganz korrekt...
+Hier aber, was ich wahrscheinlich gemacht hätte:
+
+Als erstes hätte ich wahrscheinlich angefangen solange zu suchen bis ich eine 2 finde und dann so weiter gemacht
+bis mir irgendwann aufgefallen wäre wie mühselig das Ganze ist. Danach hätte ich zumindest
+eine grobe erste Sortierung vorgenommen und wenigstens die Bildkarten und die Asse schon mal beiseite gelegt.
+Ansonsten wäre ich aber weiter wie am Anfang verfahren.
