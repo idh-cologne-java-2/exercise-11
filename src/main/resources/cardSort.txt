@@ -1,0 +1,8 @@
+Die Kartensortierung erfolgt folgendermaßen:
+
+1. Die oberste Karte wird auf ihre Farbe überprüft. Wenn diese die nächste erforderte Farbe des Zwischen-
+stapels ist, der zu dem Wert der Karte gehörtt, wird die Karte auf den entsprechenden Stapel gelegt.
+Für diesen Stapel verändert sich dann die nächste erforderte Farbe.
+2. Wenn die oberste Karte keine Karokarte ist, wird sie einfach nach hinten geschoben und der Algorithmus
+läuft normal weiter.
+3. Sobald alle Stapel vervollständigt sind, werden sie zu einem Stapel zusammengefasst.
