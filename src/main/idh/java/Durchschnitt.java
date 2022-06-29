@@ -25,7 +25,7 @@ public class Durchschnitt {
 			
 
 			System.out.println(val/record.size());
-		}}
-	
+			}
+			}
+		}
 	}
-}
