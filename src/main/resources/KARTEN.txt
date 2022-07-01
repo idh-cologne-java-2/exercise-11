@@ -1,0 +1,8 @@
+Karten sind gemischt und werden nun sortiert
+
+Schritt 1: Farbstapel (ohne Wertreihenfolge): 4 "zwischen Stapel" auf dem Tisch, ganzes Deck in der Hand
+Schritt 2: Karo Sortieren (3 Zwischenstapel auf dem Tisch, alle Karos in der Hand)
+Schritt 3: Endstapel erzeugt mit den Sortierten Karo Karten, Sortiere Herz, 1 Endstapel, 2 zwischenstapel
+Schritt 4: Sortiere Piek, 1 Endstapel, ein zwischenstapel, alle Piek Karten auf der Hand
+Schritt 5: Sortiere Kreuz. 1 Endstapel, keine zwischenstapel, Alle Kreuz Karten auf der Hand
+Schritt 6: Fertig
