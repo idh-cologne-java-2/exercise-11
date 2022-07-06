@@ -1,0 +1,11 @@
+Ausgangswert: 1 Stapel gemischter Karten, keine offen auf der Hand
+Ziel: Sortieren der Karten, von 7 bis zum Ass, In Reihenfolge: Karo, Herz, Pic, und Kreuz.
+Vorgehensweise:
+- Oberste Karte vom Stapel auf die Hand nehmen
+- Nächste Karte auf die Hand nehmen und nach ihrem Wert und Blatt vor oder hinter die offene Karte soriteren
+- Nächste Karte auf die Hand nehmen und wie vorherige Karte an die Richtige stelle in der Reihenfolge einsortieren
+- So weiter Karten Sortieren, zwischendurch Karten neu auffechern, damit alle Karten sichtbar bleiben und zu halten sind
+
+Beobachtung: Ich habe bei hellen Karten automatisch in der ersten hälfte der Karten auf meiner Hand nach dem richtigen Platz gesucht, bei dunklen Karten in der hinteren Hälfte.
+Um den richtigen Platz zu finden habe ich die Karten erst auf ihre Farbe, dann ihr Blatt und dann ihren Wert überprüft und bin dann zu dem Bereich meiner Offenen Karten gegangen, an dem diese Karte passt.
+Dabei habe ich die Karten von links nach rechts und auch rechts nach links überprüft.
