@@ -1,0 +1,4 @@
+Die Karten werden von Links nach Rechts geprüft.
+Dabei wird in jedem Schritt die aktuelle Karte mit dem direkten Nachbarn verglichen.
+Ist die nachfolgende Karte kleiner, werden sie getauscht.
+Das ganze wird so oft wiederholt, bis die gewünschte Reihenfolge erzielt werden konnte.
